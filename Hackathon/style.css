@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.headingText{
+    color: black;
+    font-size: 60px;
+}
+
+.services-bg{
+    background-color: #B9FF66;
+}
